@@ -1,7 +1,7 @@
 * Patrícia Ferreira da Silva
 * 32 Anos 
 * Analista Financeiro Pleno
-* Ferramentas - Python, Power Bi, SQL.
+* Conhecimentos - Python, marchine Learning, Deep Learning, Pandas, Seaborn, Numpy, Matplotlib, Power Bi, SQL.
 * Formação acadêmica - Bacharel em Ciências Contábeis, Graduação em Ciência de Dados, atualmente fazendo intensivo em Data Science na Awari School.
 * Linkedin - www.linkedin.com/in/patríciaferreira-cienciadedados
 * Gmail- travagin.pati@gmail.com
